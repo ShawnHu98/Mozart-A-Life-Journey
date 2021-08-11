@@ -9,12 +9,12 @@ This project is rated as full marks and presented to *Central Conservatory of Mu
 # Screenshots
 
 
-<img src="/imgs/Welcome Page.png" width="425"/> <img src="/imgs/Selecting Levels.png" width="425"/>
+<img src="/imgs/Welcome Page.png" width="400"/> <img src="/imgs/Selecting Levels.png" width="400"/>
 
-<img src="/imgs/Gaming.png" width="425"/> <img src="/imgs/Level 3.png" width="425"/>
+<img src="/imgs/Gaming.png" width="400"/> <img src="/imgs/Level 3.png" width="400"/>
 
-<img src="/imgs/Level 2.png" width="425"/> <img src="/imgs/Level 4.png" width="425"/>
+<img src="/imgs/Level 2.png" width="400"/> <img src="/imgs/Level 4.png" width="400"/>
 
-<img src="/imgs/Level 5a.png" width="425"/> <img src="/imgs/Level 5b.png" width="425"/>
+<img src="/imgs/Level 5a.png" width="400"/> <img src="/imgs/Level 5b.png" width="400"/>
 
 
