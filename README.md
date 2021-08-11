@@ -1,7 +1,9 @@
 # Mozart - A Life Journey
-A role-playing and Guitar Hero like music game developed as a course project for SUSTech CS309 Object-Oriented Algorithm Design.
 
-This project is rated as full marks and presented to *Central Conservatory of Music, China*.
+A role-playing and Guitar Hero like music game developed as a course project for SUSTech CS309 Object-Oriented Analysis and Design. The project is designed as a collaborated project with *Central Conservatory of Music, China* for arts education with multimedia.
+
+This project is rated as full marks and presented to *Central Conservatory of Music, China* as the representative project.
+
 <embed src="/" type="video/mp4">
         <p><a href="/Demo of Mozart - A Life Journey.mp4">[Demo Video]</a></p>
 </embed>
